@@ -1,0 +1,2 @@
+# ManualStringProcessingJava
+Exercises
